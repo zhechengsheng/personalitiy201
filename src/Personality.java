@@ -1,5 +1,6 @@
 
 public class Personality {
+	
 	private String myName;
 	
 	/**
@@ -8,7 +9,7 @@ public class Personality {
 	 */
 	
 	public Personality(String name) {
-		myName = name;
+		// TODO: complete constructor
 	}
 	
 	/**
@@ -25,7 +26,8 @@ public class Personality {
 	 * @return this objects identifying String/label
 	 */
 	public String getName() {
-		return myName;
+		// TODO: complete this method
+		return "ola";
 	}
 	
 	/**
